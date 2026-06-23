@@ -1,0 +1,13 @@
+.env
+.venv/
+__pycache__/
+*.py[cod]
+*.sqlite3
+db.sqlite3
+.DS_Store
+*.egg-info/
+dist/
+.coverage
+htmlcov/
+.pytest_cache/
+.mypy_cache/
